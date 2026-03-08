@@ -59,5 +59,8 @@ dkms.conf
 
 # other
 Debug/
+Release/
 *.user
 .vs/
+x64/
+Win32/
